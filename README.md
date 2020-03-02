@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Press buton and cross your fingers
+
