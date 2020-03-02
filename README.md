@@ -11,3 +11,5 @@ Too many of you ask me
 Cross fingers is critical!
 Press buton and cross your fingers
 
+copyright, all rights reserved
+
